@@ -1,5 +1,5 @@
 
-# *****BellwBeat Case Study***** 
+# *****BellaBeat Case Study***** 
  
  
  # **Table of Contents**
