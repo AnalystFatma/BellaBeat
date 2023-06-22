@@ -1,1 +1,3 @@
-# BellaBeat
+# BellaBeat Case Study
+
+#BY Fatma
