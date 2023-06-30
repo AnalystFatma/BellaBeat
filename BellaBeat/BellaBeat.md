@@ -50,8 +50,11 @@
 [***6.***	***Act***](#_toc137838606)
 
 [**6.1**	**Conclusion & Recommendations**](#_toc137838607)
+
 [**6.1.1**	**Provide notification for steps**](#_toc137838607)
+
 [**6.1.2**	**Provide graph analysis about Calories**](#_toc137838607)
+
 [**6.1.3**	**Make a sleep notification**](#_toc137838607)
 #
 # 1. <a name="_toc137838584"></a>Summary
