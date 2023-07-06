@@ -67,11 +67,13 @@ The data was collected on activity, sleep, stress, and reproductive health has a
    Analyze smart device Fitbit fitness data to gain insights from the people usage their smart devices, and know the trends of their smart devices and apply it to Bellabeat customers to make growth of Bellabeat marketing strategy.
 
    ## 1.2 <a name="_toc137838587"></a>Stakeholders
-   **Urška Sršen:** Bellabeat’s cofounder and Chief Creative Officer.                                **Sando Mur:** Mathematician and Bellabeat’s cofounder.                                               **Bellabeat marketing analytics team:** A team of data analysts.     
+   - **Urška Sršen:** Bellabeat’s cofounder and Chief Creative Officer.
+   - **Sando Mur:** Mathematician and Bellabeat’s cofounder.                                               
+   - **Bellabeat marketing analytics team:** A team of data analysts.     
 #      
 # 3. <a name="_toc137838588"></a>Prepare
    ## 3.1 <a name="_toc137838589"></a>Data Used
-      The data source is **FitBit Fitness Tracker data** stored in Kaggle.
+   The data source is **FitBit Fitness Tracker data** stored in Kaggle.
 
    ## 3.2 <a name="_toc137838590"></a>Accessibility and Privacy of data
    The metadata published by MÖBIUS, and under public domain, waiving all rights to the work and allowing for the dataset to be copies, modified, distributed and performed without asking for permission.
